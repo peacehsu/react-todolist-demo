@@ -1,2 +1,2 @@
-# react-todolist-remo
+# react-todolist-demo
 Use redux
